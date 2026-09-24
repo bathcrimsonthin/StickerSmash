@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b5fc1943-c6aa-455c-a7e2-ac876ceaea7c"
+      }
+    },
+    "owner": "ex-sushi"
   }
 }
